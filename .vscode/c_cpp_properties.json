@@ -3,7 +3,9 @@
         {
             "name": "Win32",
             "includePath": [
-                "C:\\ProgramData\\chocolatey\\lib\\mingw\\tools\\install\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++"
+                "${workspaceFolder}/**",
+                "C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32",
+                "C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"
             ],
             "defines": [
                 "_DEBUG",
