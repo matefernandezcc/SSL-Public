@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hola solo a los campeones mundiales");
+    printf("Hola a los que somos campeones mundiales");
     return 0;
 }
