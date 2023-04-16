@@ -7,6 +7,6 @@
 
 **Número y título del trabajo:** 00-Hello World
 
-**Transcripción del enunciado:** 
+**Transcripción del enunciado:**  
 
 En este trabajo práctico se desarrolla un programa que imprime por pantalla un mensaje utilizando el lenguaje C.
