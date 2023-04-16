@@ -1,4 +1,4 @@
-# TP 0 - Hello World
+# TP0 - Hello World
 Usuario github: matefernandezc
 Legajo: 209.986-0
 Apellido: Fernandez Cruz
