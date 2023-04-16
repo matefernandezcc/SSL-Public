@@ -9,4 +9,4 @@
 
 **Transcripción del enunciado:** 
 
-En este trabajo práctico se desarrolla un programa que imprime por pantalla el mensaje "Hello, World!" utilizando el lenguaje C. 
+En este trabajo práctico se desarrolla un programa que imprime por pantalla un mensaje utilizando el lenguaje C.
