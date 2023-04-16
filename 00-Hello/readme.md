@@ -9,4 +9,4 @@
 
 **Transcripción del enunciado:** 
 
-En este trabajo práctico se deberá desarrollar un programa que imprima por pantalla el mensaje "Hello, World!" utilizando el lenguaje de programación elegido. El objetivo de este trabajo es familiarizarse con el entorno de programación y asegurarse de que el compilador y las herramientas de construcción estén correctamente instalados.
+En este trabajo práctico se desarrolla un programa que imprime por pantalla el mensaje "Hello, World!" utilizando el lenguaje C.
